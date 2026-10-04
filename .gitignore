@@ -54,3 +54,10 @@ models_fake_news/
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Project Documents & Local Reports
+Docs/
+docs/*.docx
+docs/*.pptx
+*.docx
+
